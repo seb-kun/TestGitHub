@@ -1,5 +1,7 @@
-Version 1
+Version 2
 
 Text document 
 
-Test Git hub features / usage.
+Test Git Hub features / usage.
+
+\o/
