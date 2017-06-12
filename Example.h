@@ -3,7 +3,8 @@ class CExample
 public:
 	CExample();
 	
-	int GetValue() const;
+	void 	Init();
+	int 	GetValue() const;
 	
 private:
 

@@ -1,4 +1,4 @@
+Added Init to CExample
 Modified Main.cpp
 Added Example.*, udpated Main.cpp
 Added Main.cpp
-

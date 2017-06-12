@@ -5,6 +5,9 @@
 
 int main ()
 {
+	CExample my_example;
+	my_example.Init();
+	
 	int returnValue = NO_ERROR;
 	
 	if ( int platform == 2 )
