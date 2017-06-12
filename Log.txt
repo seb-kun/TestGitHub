@@ -1,3 +1,4 @@
+Added IOS example
 Added Android example
 Added Example.*, udpated Main.cpp
 Added Main.cpp
